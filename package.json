@@ -1,6 +1,6 @@
 {
   "name": "furnace",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Furnace (work in progress))",
   "main": "index.js",
   "scripts": {
